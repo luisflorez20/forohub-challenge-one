@@ -1,9 +1,5 @@
 🗣️ ForoHub - API REST
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
-Mostrar imagen
+
 📝 Descripción
 ForoHub es una API REST desarrollada con Spring Boot que replica las funcionalidades básicas de un foro. Permite a los usuarios crear tópicos, responder preguntas y gestionar contenido de manera segura mediante autenticación JWT.
 ✨ Características
