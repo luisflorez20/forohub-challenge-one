@@ -110,7 +110,7 @@ Abre un Pull Request
 📝 Licencia
 Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE.md para más detalles.
 👨‍💻 Autor
-Tu Nombre - tu-email@ejemplo.com
-Proyecto Link: https://github.com/tu-usuario/forohub
+Luis Florez - luisflorez20@yahoo.com
+Proyecto Link: https://github.com/luisflorez20/forohub
 
 ⭐ ¡No olvides darle una estrella al repo si te gustó el proyecto!
